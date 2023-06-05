@@ -1,6 +1,6 @@
 # Streamez
 
-Streamez is a docker image built from arut/nginx-rtmp-module's containerized version tiangolo/nginx-rtmp-docker.
+Streamez is a docker image built from [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)'s containerized version [tiangolo/nginx-rtmp-docker](https://github.com/tiangolo/nginx-rtmp-docker).
 
 Streamez is preconfigured so that you don't have to write your own NGINX config and FFMPEG script.
 
